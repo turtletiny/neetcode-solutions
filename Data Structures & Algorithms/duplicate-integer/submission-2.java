@@ -13,3 +13,5 @@ class Solution {
         
     }
 }
+##brute force sooltion - checking every number against every other number
+##inferior solution to java submission 1 - checks some pairs twice
