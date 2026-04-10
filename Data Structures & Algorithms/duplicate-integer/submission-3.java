@@ -13,3 +13,4 @@ class Solution {
 
     }
 }
+// utilised hashmaps to count numbers - much more efficient compared to brute force method
